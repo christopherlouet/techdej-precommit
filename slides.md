@@ -77,7 +77,7 @@ transition: slide-left
 ---
 
 <p align="center" width="100%">
-    <img alt="Hooks" src="./1/hooks.jpg"/>
+    <img alt="Hooks" src="/1/hooks.jpg"/>
 </p>
 
 ---
